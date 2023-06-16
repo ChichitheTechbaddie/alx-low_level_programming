@@ -1,5 +1,3 @@
-3-print_alphabets.c
-
 #include <stdio.h>
 
 /**
@@ -19,3 +17,5 @@ char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	putchar('\n');
 	return (0);
 }
+
+
