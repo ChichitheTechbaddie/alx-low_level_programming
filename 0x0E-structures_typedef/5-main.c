@@ -15,4 +15,3 @@ int main(void)
     free_dog(my_dog);
     return (0);
 }
-
